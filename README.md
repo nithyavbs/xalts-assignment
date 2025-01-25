@@ -112,7 +112,7 @@ ________________________________________
 </tr>
 <tr>
   <td>TC003</td>
-  <td>	Sign Up</td><td></td>	Password not meeting requirements</td>
+  <td>	Sign Up</td><td>Password not meeting requirements</td>
   <td><li>	1. Navigate to Sign Up</li>
     <li>2. Enter password without lowercase, uppercase, number, or special character</li>
     <li>3. Submit</li></td>
