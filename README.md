@@ -84,10 +84,54 @@ Deliverables
 3.	Automated Test Scripts.
 4.	Test Metrics.
 ________________________________________
-<table><tr>
-<td>ID	</td>   <td> Feature</td><td> Scenario	       </td>    <td> Steps	   </td>     <td>                                        Expected Result</td></tr>
-<tr><td>TC001</td><td>	Sign Up</td><td>	Valid input	<li>1. Navigate to Sign Up</li><li>2. Fill valid details</li><li>3. Submit</li></td><td>	Success message displayed</td></tr>
-<tr><td>TC002</td><td>	Sign Up	Invalid email</td><td>	<li>1. Navigate to Sign Up</li><li>2. Enter invalid email3.</li><li> Submit</li></td>	<td>Error: Invalid email format</td></tr>
-<tr><td>TC003</td><td>	Sign Up	Password not meeting requirements</td><td><li>	1. Navigate to Sign Up</li><li>2. Enter password without lowercase, uppercase, number, or special character</li><li>3. Submit</li></td><td>	Error: Password does not meet security requirements</td></tr>
-<tr><td>TC004</td><td>	Sign In	Valid credentials</td><td>	<li>1. Navigate to Sign In</li><li>2. Enter valid credentials</li><li>3. Submit</li>	<td>Redirect to dashboard</td></tr>
-<tr><td>TC005</td><td>	Sign Out</td><td>Successful logout</td><td><li>	1. Log in</li></td><td> Click Sign Out</td><td>	Redirect to home page</td></tr></table>
+<table>
+<tr>
+<td>ID</td>   
+<td> Feature</td>
+<td> Scenario</td>    
+<td> Steps</td>
+<td> Expected Result</td>
+</tr>
+<tr>
+  <td>TC001</td>
+  <td>	Sign Up</td>
+  <td>	Valid input	</td><td>
+    <li>1. Navigate to Sign Up</li>
+    <li>2. Fill valid details</li>
+    <li>3. Submit</li></td>
+  <td>Success message displayed</td>
+</tr>
+<tr>
+  <td>TC002</td>
+  <td>	Sign Up	Invalid email</td>
+  <td>	
+    <li>1. Navigate to Sign Up</li>
+    <li>2. Enter invalid emaill.</li>
+    <li> Submit</li></td>	
+  <td>Error: Invalid email format</td>
+</tr>
+<tr>
+  <td>TC003</td>
+  <td>	Sign Up	Password not meeting requirements</td>
+  <td><li>	1. Navigate to Sign Up</li>
+    <li>2. Enter password without lowercase, uppercase, number, or special character</li>
+    <li>3. Submit</li></td>
+  <td>	Error: Password does not meet security requirements</td>
+</tr>
+<tr>
+  <td>TC004</td>
+  <td>	Sign In	Valid credentials</td>
+  <td>	<li>1. Navigate to Sign In</li>
+    <li>2. Enter valid credentials</li>
+    <li>3. Submit</li>
+  <td>Redirect to dashboard</td></tr>
+<tr>
+  <td>TC005</td>
+  <td>Sign Out</td>
+  <td>Successful logout</td>
+  <td>
+    <li>	1. Log in</li></td>
+  <td> Click Sign Out</td>
+  <td>	Redirect to home page</td>
+</tr>
+</table>
