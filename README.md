@@ -103,7 +103,7 @@ ________________________________________
 </tr>
 <tr>
   <td>TC002</td>
-  <td>	Sign Up	Invalid email</td>
+  <td>	Sign Up</td>td>	Invalid email</td>
   <td>	
     <li>1. Navigate to Sign Up</li>
     <li>2. Enter invalid emaill.</li>
@@ -120,18 +120,18 @@ ________________________________________
 </tr>
 <tr>
   <td>TC004</td>
-  <td>	Sign In	Valid credentials</td>
+  <td>	Sign In</td><td></td>	Valid credentials</td>
   <td>	<li>1. Navigate to Sign In</li>
     <li>2. Enter valid credentials</li>
-    <li>3. Submit</li>
+    <li>3. Submit</li></td>
   <td>Redirect to dashboard</td></tr>
 <tr>
   <td>TC005</td>
   <td>Sign Out</td>
   <td>Successful logout</td>
   <td>
-    <li>	1. Log in</li></td>
-  <td> Click Sign Out</td>
+    <li>	1. Log in</li>
+  <li>Click Sign Out</li></td>
   <td>	Redirect to home page</td>
 </tr>
 </table>
