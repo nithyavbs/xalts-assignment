@@ -103,7 +103,7 @@ ________________________________________
 </tr>
 <tr>
   <td>TC002</td>
-  <td>	Sign Up</td>td>	Invalid email</td>
+  <td>	Sign Up</td><td>	Invalid email</td>
   <td>	
     <li>1. Navigate to Sign Up</li>
     <li>2. Enter invalid emaill.</li>
@@ -112,7 +112,7 @@ ________________________________________
 </tr>
 <tr>
   <td>TC003</td>
-  <td>	Sign Up	Password not meeting requirements</td>
+  <td>	Sign Up</td><td></td>	Password not meeting requirements</td>
   <td><li>	1. Navigate to Sign Up</li>
     <li>2. Enter password without lowercase, uppercase, number, or special character</li>
     <li>3. Submit</li></td>
@@ -120,7 +120,7 @@ ________________________________________
 </tr>
 <tr>
   <td>TC004</td>
-  <td>	Sign In</td><td></td>	Valid credentials</td>
+  <td>	Sign In</td><td>Valid credentials</td>
   <td>	<li>1. Navigate to Sign In</li>
     <li>2. Enter valid credentials</li>
     <li>3. Submit</li></td>
